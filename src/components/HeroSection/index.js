@@ -19,9 +19,9 @@ const HeroSection = () => {
                             <Span>
                                 <Typewriter
                                     options={{
-                                        strings: 'Full Stack Developer',
+                                        strings: Bio.roles,
                                         autoStart: true,
-                                        loop: false,
+                                        loop: true,
                                     }}
                                 />
                             </Span>
