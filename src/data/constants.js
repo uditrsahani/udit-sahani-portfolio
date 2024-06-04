@@ -251,7 +251,7 @@ export const projects = [
       "TailwindCSS",
     ],
     category: "web app",
-    github: "https://github.com/uditrsahani/Fullstack-E-commerce-Website---Reactjs-Firebase",
+    github: "https://github.com/uditrsahani/Fullstack-Ecommerce-Website-Reactjs-Firebase",
     webapp: "https://fullstack-e-commerce-website-reactjs-firebase.vercel.app/",
   },
   {
