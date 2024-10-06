@@ -333,7 +333,7 @@ export const projects = [
   {
     id: 3,
     title: "Job Application Tracker",
-    date: "September 2024 - Oct 2023",
+    date: "September 2024 - Oct 2024",
     description:
       "Developed a job application tracking website with clean UI and all the required features such as job application information, status, option to update or delete the info, a button to export the data into an excel file and so on.",
     image:
