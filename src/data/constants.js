@@ -186,9 +186,28 @@ export const skills = [
 ];
 
 export const experiences = [
-  
+
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/C4D0BAQHalV_458QsNw/company-logo_200_200/company-logo_200_200/0/1631877863702?e=1736380800&v=beta&t=eTkXozXfAhH2AmrIjqui3E9L0lt1D5d6qs1DbBMKJyk",
+    role: "Fullstack Developer Intern",
+    company: "at Arcelik-Hitachi",
+    date: "July 2024 - Present",
+    desc: ` Working as a Full Stack Developer who codes to contribute in the existing and upcoming global projects.
+    `,
+    
+    skills: [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "Python",
+      "Reactjs"
+    ],
+    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+  },
+  {
+    id: 1,
     img: "https://videshguru.com/wp-content/uploads/2022/05/cropped-videsh-guru-logo.png",
     role: "Fullstack Developer",
     company: "at Videsh Guru (OPC) Pvt Ltd",
@@ -213,7 +232,7 @@ export const experiences = [
     // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
-    id: 0,
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rq4M841kGPt0y19UbwdbIZCSarLyzAPcLw&s",
     role: "Fullstack Developer Intern",
     company: "at Siam University",
