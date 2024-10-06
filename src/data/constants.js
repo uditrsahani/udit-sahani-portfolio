@@ -192,7 +192,7 @@ export const experiences = [
     img: "https://videshguru.com/wp-content/uploads/2022/05/cropped-videsh-guru-logo.png",
     role: "Fullstack Developer",
     company: "at Videsh Guru (OPC) Pvt Ltd",
-    date: "Jan 2023 - April 2024",
+    date: "Jan 2023 - May 2024",
     desc: `Built the company's website and internal dashboard, and assisted with content planning and marketing.
     
     Contributed to increased customer acquisition and retention, boosting sales.
@@ -264,7 +264,7 @@ export const projects = [
       "https://raw.githubusercontent.com/uditrsahani/NEWS-API/main/images/icosiam-project.png",
     tags: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "Reactjs"],
     category: "Website",
-    github: "https://github.com/uditsahani/",
+    github: "https://github.com/uditrsahani/",
     webapp: "https://icosiam.net/",
     // member: [
     //   {
@@ -279,7 +279,7 @@ export const projects = [
   {
     id: 1,
     title: "Videsh Guru",
-    date: "Jan 2023 - April 2024",
+    date: "Jan 2023 - May 2024",
     description:
       "Designed and developed the company's website and internal dashboard using HTML, CSS, JavaScript, PHP, MySQL, WordPress, Reactjs, MongoDB. This helped the company promote its services, increase its digital presence, and attract customers from around the country. The internal dashboard helped the company with data handling, customer management, and overall in conducting smooth business operations.",
     image:
@@ -295,7 +295,7 @@ export const projects = [
       "MySQL"
     ],
     category: "Website",
-    github: "https://github.com/uditsahani/",
+    github: "https://github.com/uditrsahani/",
     webapp: "https://videshguru.com",
   },
   {
@@ -310,17 +310,22 @@ export const projects = [
     category: "web app",
     github: "https://github.com/uditrsahani/Dictionary-API",
     webapp: "https://dictionary-adxznmcce-uditrsahanis-projects.vercel.app/",
-    // member: [
-    //   {
-    //     name: "Udit Sahani",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/uditsahani/",
-    //     github: "https://github.com/uditrsahani/",
-    //   },
-    // ],
   },
   {
     id: 3,
+    title: "Job Application Tracker",
+    date: "September 2024 - Oct 2023",
+    description:
+      "Developed a job application tracking website with clean UI and all the required features such as job application information, status, option to update or delete the info, a button to export the data into an excel file and so on.",
+    image:
+      "https://raw.githubusercontent.com/uditrsahani/Job-Application-Tracker/refs/heads/main/Job%20Application%20Tracker.png",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    category: "Website",
+    github: "https://github.com/uditrsahani/Job-Application-Tracker",
+    webapp: "https://job-application-tracker-rouge.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Movie Hub",
     date: "Mar 2024 - Apr 2024",
     description:
@@ -333,7 +338,7 @@ export const projects = [
     webapp: "https://movie-hub-xi-orcin.vercel.app/",
   },
   {
-    id: 10,
+    id: 5,
     title: "Data Analysis Form",
     date: "Jul 2023 - Aug 2023",
     description:
@@ -347,7 +352,7 @@ export const projects = [
   },
 
   {
-    id: 10,
+    id: 6,
     title: "Todo Web App",
     date: "Feb 2024 - March 2024",
     description:
@@ -362,10 +367,4 @@ export const projects = [
  
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+
